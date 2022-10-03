@@ -1,29 +1,29 @@
-﻿id;name;company;location;position;;
-u30;30unter30;MediumMagazin; Muenchen;;;
-IsBe;IsabellBeer;Funk;Berlin ;Redakteurin ;;
-DeRe;DeutscherReporterpreis ;WeltN24 ;Berlin;;;
-Ot-Br-Ne;Otto-Brenner-Newcomerpreis;Otto-Brenner-Stiftung(IGMetall) ;FrankfurtAmMain;;;
-NaPr;NannenPreis;VerlagshausGrunerUJahr;Hamburg;;;
-BeKu;BerlinerKurier;BerlinerKurier;Berlin;;;
-UlBu;UllsteinBuchverlageGmbH;UllsteinBuchverlageGmbH;Berlin;;;
-CaVe;CarlsenVerlagGmbH;CarlsenVerlagGmbH;Hamburg;;;
-Funk;funk-Content-NetzwerkvonARDundZDF ;ARDuZDF;;;;
-DiZe;DieZeit ;ZeitverlagGerdBuceriusGmbHuCo.KG ;Hamburg;;;
-AnBr;AnnikaBrockschmidt;Zeit;Berlin ;FreieJournalistin ;;
-UnHe;UniversitaetHeidelberg;;Heidelberg;;;
-UnPo;UniversitaetPotsdam;;Potsdam;;;
-DuUn;DurhamUniversity;;Drnham;;;
-HoDi;HochschulperleDigital;;Essen;;;
-ZeOn;ZeitOnline;ZeitOnlineGmbH;Hamburg;;;
-BuPoBi;BundeszentraleFürPolitischeBildung ;;Bonn;;;
-ZDF;ZDF-ZweitesDeutschesFernsehen;;Mainz;;;
-Fora;Fora: Network for Change;;Toronto;;;
-SiPi;SciencePie;;;;;
-DeTa;DerTagesspiegel ;VerlagDerTagesspiegelGmbH;Berlin;;;
-PuDj;PuneDjalilevand;RundfunkBerlin-Brandenburg;Berlin;Redakteurin;;
-ARD;ARD-ArbeitsgemeinschaftDerÖffentlich-rechtlichenRundfunkanstaltenDerBRD;;Berlin;;;
-RBB;RundfunkBerlin-Brandenburg;;Berlin;;;
-EMS;ElectronicMediaSchool ;;Babelsberg;;;
+id,name,company,location,position
+u30,30unter30,MediumMagazin,Muenchen,
+IsBe,IsabellBeer,Funk,Berlin,Redakteurin
+DeRe,DeutscherReporterpreis,WeltN24,Berlin,
+Ot-Br-Ne,Otto-Brenner-Newcomerpreis,Otto-Brenner-Stiftung(IGMetall),FrankfurtAmMain,
+NaPr,NannenPreis,VerlagshausGrunerUJahr,Hamburg,
+BeKu,BerlinerKurier,BerlinerKurier,Berlin,
+UlBu,UllsteinBuchverlageGmbH,UllsteinBuchverlageGmbH,Berlin,
+CaVe,CarlsenVerlagGmbH,CarlsenVerlagGmbH,Hamburg,
+Funk,funk-Content-NetzwerkvonARDundZDF,ARDuZDF,,
+DiZe,DieZeit,ZeitverlagGerdBuceriusGmbHuCo.KG,Hamburg,
+AnBr,AnnikaBrockschmidt,Zeit,Berlin,FreieJournalistin
+UnHe,UniversitaetHeidelberg,,Heidelberg,
+UnPo,UniversitaetPotsdam,,Potsdam,
+DuUn,DurhamUniversity,,Drnham,
+HoDi,HochschulperleDigital,,Essen,
+ZeOn,ZeitOnline,ZeitOnlineGmbH,Hamburg,
+BuPoBi,BundeszentraleFürPolitischeBildung,,Bonn,
+ZDF,ZDF-ZweitesDeutschesFernsehen,,Mainz,
+Fora,Fora:NetworkforChange,,Toronto,
+SiPi,SciencePie,,,,
+DeTa,DerTagesspiegel,VerlagDerTagesspiegelGmbH,Berlin,
+PuDj,PuneDjalilevand,RundfunkBerlin-Brandenburg,Berlin,Redakteurin
+ARD,ARD-ArbeitsgemeinschaftDerÖffentlich-rechtlichenRundfunkanstaltenDerBRD,,Berlin,
+RBB,RundfunkBerlin-Brandenburg,,Berlin,
+EMS,ElectronicMediaSchool,,Babelsberg,
 FiUnBa;FilmuniversitaetBabelsbergKonradWolf;;Babelsberg;;;
 UnBA;UniversidadDeBuenosAires;;Buenos Aires;;;
 CaDr;CarolinaDrueten;WeltN24 ;Berlin;Redakteurin ;;
