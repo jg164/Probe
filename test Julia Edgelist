@@ -207,6 +207,7 @@ KiSc,u30,nominierung,2019
 KiSc,YDJ,nominierung,2019
 KiSc,RBB,volontariat,2017
 KiSc,TUDo,education,2014
+ElSc,u30,nominierung,2019
 ElSc,EKU,education,2011
 ElSc,UnKo,education,2015
 ElSc,DJS,education,2017
@@ -284,9 +285,6 @@ LaTh,KaUn,education,2016
 ElHo,u30,nominierung,2020
 ElHo,HuUn,education,2013
 ErZi,u30,nominierung,2020
-
-
-Pris18:
 SaJaBh,UnBo,education,
 SaJaBh,HoMaSt,education,
 SaJaBh,TaUn,education,
@@ -411,7 +409,7 @@ SaKo,u30,nomination,2021
 SaKo,UnHa,education,2021
 SaKo,JoWoGoUn,education,2017
 NhLe,u30,nominierung,2021
-NhLeUnLe,education,2018
+NhLe,UnLe,education,2018
 NhLe,UnLe,education,2017
 NhLe,UniOh,education,2013
 NhLe,DiMeWo,engagement,2016
