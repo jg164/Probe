@@ -1,4 +1,4 @@
-Id,name,company,location,position,migration
+Id,name,company,location,position
 JeBa,JessicaBaker,DeutschenHandwerksZeitung,BadWörishofen,Redakteurin
 RKUn,RuprechtKarlsUniversität,,Heidelberg,
 HoMe,HolzmannMedienGmbH,,,
@@ -62,8 +62,6 @@ LiWe,LisaWeitemeier,,,Multimedia-Redakteurin
 LfM,LfM-Campus-Radio-Preis,,,
 MeDeDi,MedienpreisDerDeutschenDiabetesGesellschaft,DeutschenDiabetesGesellschaft,,
 GrOnAw,GrimmeOnlineAward,,,
-
-
 ViBo,VictoriaBolmer,Bento,Hamburg,Ressortleiterin
 UnHa,UniversitaetHamburg,,Hamburg,
 UnOs,UniversitaetOsnabrueck,,Osnabrueck,
@@ -102,8 +100,6 @@ KaUn,KatholischeUniversitaet,,Ingolstadt,
 ElHo,ElisavonHof,Spiegel,Hamburg,Redakteurin
 HuUn,HumboldtUniversitaet,,Berlin,
 ErZi,EricaZingher,taz,Berlin,Redakteurin
-
-
 LaAh,LaurinaAhlers,SuedlaenderTageblatt,Plettenberg,FreieJournalistin
 u30,DieTop30bis30desJahres,Mediummagazin,Muenchen,
 LBP,Leser-Blattbindungs-Preis,SuedlaenderTageblatt,Plettenberg,
@@ -163,8 +159,6 @@ LaGi,LauraGitschier,PrimeProductions,Koeln,Redakteurin
 AnGe,Anne-KathrinGerstlauer,Zeit,Hamburg,Konzeption
 TuDo,TechnischeUniversitätDortmund,,Dortmund,
 KoeSt,KoelnerStadtanzeiger,,Koeln,
-
-
 PoBa,PolinaBaumgarten,Zeit,Hamburg,Videojournalistin
 HuUn,HumboldtUniversitaet,,Berlin,
 u30,DieTop30bis30desJahres,Mediummagazin,München,
@@ -271,10 +265,6 @@ BaRu,BayrischerRundfunk,,Muenchen,
 LMU,LudwigMaximiliansUniversitaet,Muenchen,
 GoBo,GoldenerBlogger,BayrischerRundfunk,Muenchen,
 ASP,AxelSpringerPreis,BayrischerRundfunk,Muenchen,
-
-
-
-Pris18:
 SaJaBh,SaraJasminBhatti,,,Freie-Journalistin
 UnBo,UniversitartBonn,,Bonn,
 HoMaSt,HochschuleMagdeburg-Stendal,,Magdeburg,
