@@ -101,47 +101,47 @@ SpPoSl,Sprachaktiv-U20PoetrySlam,,Leipzig,
 CoMa,CouragiertMagazin,CouragiertMagazin,,,
 StGe,Straßengezwitscher,StraßengezwitscherE.V,Dresden,
 UnOh,OhioUniversity,,Ohio,
-MDR;MDR-MitteldeutscherRundfunk ;;Leipzig;;;
-NDR;NDR-NorddeutscherRundfunk;;Hamburg;;;
-DiMeWo;DigitalMediaWomenE.V.;;Hamburg;;;
-UnLe;Universitaet Leipzig;;Leipzig;;;
-SaUl;SarahUlrich;;;Freie Journalistin;;
-DeJoPrLaRe;DeutschesJournalistenProgrammLateinamerikaRecherchestipendium;;Deutsch;;;
-BJVPf;BayrischerJournalistenVerbandPressefreiheitpreis;;Muenchen;;;
-DIMR;Deutsches InstitutFuerMenschenrechte;;Berlin;Recherchestipendium;;
-N-Ost;NetzwerkFürOsteuropa-Berichterstattung ;;Berlin;Recherchestipendium;;
-HeBoSt;Heinrich-Boell-Stiftung;;Berlin;Recherchestipendium;;
-GoIn;Goethe-Institut ;;Muenchen;Recherchestipendium;;
-RoLuSt;Rosa-Luxemburg-Stiftung;;Berlin;Studienstipendium;;
-NeRe;NetzwerkRecherche;;Berlin;;;
-FrSc;Freischreiber;;Hamburg;;;
-DJU;DeutscheJournalistinnen-Union ;ver.di;Berlin;;;
-UnJe;Universitaet Jena ;;Jena;;;
-UnMa;Universitaet Mannheim;;Mannheim;;;
-DiRh;DieRheinpfalz;RheinpfalzVerlagUndDruckereiGmbHCo.KG;LudwigshafenAmRhein;;;
-Hu11FiGu;Hunter11Films ;;Guatemala;;;
-KrLe;Kreuzer-DasLeipzigMagazin;KreuzerMedienGmbH;Leipzig;;;
-TAZ;Taz.DieTageszeitung;TAZVerlagsUndVertriebsgesellschaft;Berlin;;;
-AmWe;AmelieMarieWeber;FunkeMediengruppe;Berlin;Redakteurin ;;
-BuJo;BurdaJournalistenschule;;Offenburg;;;
-FoMa;FocusMagazin;;Berlin;;;
-FuMe;FunkeMediengruppe;;Berlin;;;
-HuBuMe;HubertBurdaMedia;;Berlin;;;
-FrIPA;FraunhoferIPA;;Mannheim;;;
-GlMeAw;GlobalMediaAward;InternationalNewsMediaAssociation;;;;
-25Ne;Die25NewcomerDesJahres;KressPro;;;;
-EcPr;Eckensberger-Preis;EckensbergerStiftung;Braunschweig;;BraunschweigerZeitung;
-EuDiPuAw;EuropeanDigitalPublishingAward;MedienfachverlagOberauer;;;;
-JuWe;JuliaWeller;BadischenNeuestenNachrichten;Karlsruhe;Wissenschaftsredakteurin ;Freie Journalistin;30 u 30 frei gewonnen
-BaNeNa;BadischenNeuestenNachrichten;Badendruck GmbH;Karlsruhe;;;
-FrInSyInRe;Fraunhofer Institute for Systems and Innovation Research ISI;;Karlsruhe;;;
-KIT;KarlsruherInstitutfuerTechnologie;;Karlsruhe;;;
-HeSt;HeilbronnerStimme;HeilbronnerStimmeGmbHUndCo.KG;Heilbronn;;;
-FAU;FAUErlangen-Nürnberg;;Nuernberg;;;
-KaJo;KatholischeJournalistenschuleIFP;;Muenchen;;;
-PaWoSePr;Pater-Wolfgang-Seibel-Preis;InstitutZurFörderungPublizistischenNachwuchses;Muenchen;;;
-DeLoJo;DeutscherLokaljournalistenpreis;Konrad-Adenauer-Stiftung;Bonn;;;
-MaWu;MaikeWurtscheid;DocuvistaFilmproduktion;Berlin;Regisseurin ;;
-DoFi;DocuvistaFilmproduktion;;Berlin;;;
-UnMai;Universitaet Mainz;;Mainz;;;
-3SAT;3Sat;;;;;
+MDR,MDR-MitteldeutscherRundfunk,,Leipzig,
+NDR,NDR-NorddeutscherRundfunk,,Hamburg,
+DiMeWo,DigitalMediaWomen,DigitalMediaWomenE.V.,Hamburg,
+UnLe,UniversitaetLeipzig,,Leipzig,
+SaUl,SarahUlrich,,,Freie Journalistin
+DeJoPrLaRe,DeutschesJournalistenProgrammLateinamerikaRecherchestipendium,,,Recherchestipendium
+BJVPf,BayrischerJournalistenVerbandPressefreiheitpreis,,Muenchen,
+DIMR,DeutschesInstitutFuerMenschenrechteRecherchestipendium,,Berlin,Recherchestipendium
+N-Ost,NetzwerkFürOsteuropa-BerichterstattungRecherchestipendium,,Berlin,Recherchestipendium
+HeBoSt,Heinrich-Boell-StiftungRecherchestipendium,,Berlin,Recherchestipendium
+GoIn,Goethe-InstitutRecherchestipendium,Goethe-Institut,Muenchen,Recherchestipendium
+RoLuSt,Rosa-Luxemburg-StiftungStudienstipendium,Rosa-Luxemburg-Stiftung,Berlin,Studienstipendium
+NeRe,NetzwerkRecherche,NetzwerkRechercheE.V.,Berlin,
+FrSc,Freischreiber,,Hamburg,
+DJU,DeutscheJournalistinnen-Union,ver.di,Berlin,
+UnJe,UniversitaetJena,,Jena,
+UnMa,UniversitaetMannheim,,Mannheim,
+DiRh,DieRheinpfalz,RheinpfalzVerlagUndDruckereiGmbHCo.KG,LudwigshafenAmRhein,
+Hu11FiGu,Hunter11Films,,Guatemala,
+KrLe,Kreuzer-DasLeipzigMagazin,KreuzerMedienGmbH,Leipzig,
+TAZ,Taz.DieTageszeitung,TAZVerlagsUndVertriebsgesellschaft,Berlin,
+AmWe,AmelieMarieWeber,FunkeMediengruppe,Berlin,Redakteurin
+BuJo,BurdaJournalistenschule,HubertBurdaMedia,Offenburg,
+FoMa,FocusMagazin,FocusMagazin,Berlin,
+FuMe,FunkeMediengruppe,FunkeMediengruppe,Berlin,
+HuBuMe,HubertBurdaMedia,HubertBurdaMedia,Berlin,
+FrIPA,FraunhoferIPA,,Mannheim,
+GlMeAw,GlobalMediaAward,InternationalNewsMediaAssociation,,,
+25Ne,Die25NewcomerDesJahres,KressPro,,,
+EcPr,Eckensberger-Preis,EckensbergerStiftung,Braunschweig,
+EuDiPuAw,EuropeanDigitalPublishingAward,MedienfachverlagOberauer,,,
+JuWe,JuliaWeller,BadischenNeuestenNachrichten,Karlsruhe,FreieJournalistin
+BaNeNa,BadischenNeuestenNachrichten,BadendruckGmbH,Karlsruhe,
+FrInSyInRe,FraunhoferInstituteforSystemsandInnovationResearchISI,,Karlsruhe,
+KIT,KarlsruherInstitutfuerTechnologie,,Karlsruhe,
+HeSt,HeilbronnerStimme,HeilbronnerStimmeGmbHUndCo.KG,Heilbronn,
+FAU,FAUErlangen-Nuernberg,,Nuernberg,
+KaJo,KatholischeJournalistenschuleIFP,,Muenchen,
+PaWoSePr,Pater-Wolfgang-Seibel-Preis,InstitutZurFoerderungPublizistischenNachwuchses,Muenchen,
+DeLoJo,DeutscherLokaljournalistenpreis,Konrad-Adenauer-Stiftung,Bonn,
+MaWu,MaikeWurtscheid,DocuvistaFilmproduktion,Berlin,Regisseurin
+DoFi,DocuvistaFilmproduktion,,Berlin,
+UnMai,UniversitaetMainz,,Mainz,
+3SAT,3Sat,,,,
