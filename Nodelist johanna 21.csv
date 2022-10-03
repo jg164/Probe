@@ -24,84 +24,83 @@ PuDj,PuneDjalilevand,RundfunkBerlin-Brandenburg,Berlin,Redakteurin
 ARD,ARD-ArbeitsgemeinschaftDerÖffentlich-rechtlichenRundfunkanstaltenDerBRD,,Berlin,
 RBB,RundfunkBerlin-Brandenburg,,Berlin,
 EMS,ElectronicMediaSchool,,Babelsberg,
-FiUnBa;FilmuniversitaetBabelsbergKonradWolf;;Babelsberg;;;
-UnBA;UniversidadDeBuenosAires;;Buenos Aires;;;
-CaDr;CarolinaDrueten;WeltN24 ;Berlin;Redakteurin ;;
-IsBiUe;İstanbulBilgiUeniversitesi;;Istanbul;;;
-UnEAS;UniversityofEuropeforAppliedSciences;;Potsdam;;;
-UnAa;AarhusUniversity;;Aarhus;;;
-CiUnLo;CityUniversityofLondon;;London;;;
-EuPa;EuropeanParliament;;Brussels;;;
-AlAg;AltanaAg;;Cologne;;;
-Welt;Welt;WeltN24 ;Berlin;;;
-StMe;StiftungMercator;StiftungMercatorGmbH;Essen;;;
-DAAD;DAAD-GermanAcademicExchangeService;;Bonn;;;
-ThSp;ThoughtSpark;ThoughtSparkAgency;London;;;
-IdFl;Ida Flik;;;;;
-SoGa;SophieGarbe;;Berlin;FreieJournalistin;;
-DeSp;DerSpiegel;SPIEGEL-VerlagRudolfAugstein;Hamburg;;;
-Watson;watson.de;AZMedienAG;Zürich;;;
-SZ;SueddeutscheZeitung;SüddeutscheZeitungGmbH;Muenchen;;;
-DeJo;DeutscheJournalistenschule;;Muenchen;Ausbildung;;
-LuMaUn;Ludwig-Maximilians-UniversitaetMuenchen;;Muenchen;;;
-WeWiUn;WestfaelischeWilhelms-UniversitaetMuenster;;Muenster;;;
-LaGo;LauraGoudkamp;BayerischerRundfunk;Muenchen;FreieJournalistin;Digitalexpertin;
-BaRu;BayerischerRundfunk;;Muenchen;;;
-GeEmLo;GermanEmbassyLondon;;London;;;
-Ya;Yahoo;;;;;
-DeBu;DeutscherBundestag;;Berlin;;;
-UCL;UniversityCollegeLondon;;London;;;
-HoUt;HogeschoolUtrecht;;Utrecht;;;
-ipas;InternationalAndPublicAffairsSociety;;London;;;
-Plus;PULS(BayerischerRundfunk);AlliteraVerlag;Muenchen;;;
-NaJoBa;NachwuchsjournalistenBayern;Hanns-SeidelStiftung;Muenchen;;;
-SaHo;SalwaHoumsi;;;Moderatorin;;
-WDR;WDR-WestdeutscherRundfunk;;Koeln;;;
-RaFr;RadioFritz;RundfunkBerlin-Brandenburg;Berlin;;;
-Sp;Spotify;;;;;
-InMuJoAw;InternationalMusicJournalismAward;DasReeperbahnFestival;Hamburg;;;
-GrOnAw;GrimmeOnlineAward;Grimme-Institut;Marl;;;
-ARTE ;ARTE ;;Straßburg;;;
-MeKa;MerveKayikci;SWR-Südwestrundfunk;;Moderatorin;;
-SWR;SWR-Südwestrundfunk;;Mainz;;;
-KoAdSt;KonradAdenauerStiftung;;Bonn;;;
-Po;Podimo;;;;;
-GrUJa;VerlagshausGrunerUJahr;GrunerUndJahrGmbH;Hamburg;;;
-De;Deezer;;;;;
-LaBaWu;LandBaden-Wuerttemberg;;Stuttgart;;;
-DaMeJo;DanmarksMedieogJournalisthojskole;;Aarhus;;;
-EbKaUn;EberhardKarlsUniversitaetTuebingen;;Tuebingen;;;
-HoDeMe;HochschuleDerMedien;;Stuttgart;;;
-OrGe;OriginalsGesucht;re:publica ;;Deezer;;
-FrKl;FranziskaKlemenz;Saechsische.de;Dresden;Reporterin;;
-ThOr;The Oregonian;International Center For Journalists ;;;;
-SaZe;SaechsischeZeitung;DDV-Mediengruppe;Dresden;;;
-TeUnDr;TechnischeUniversitaetDresden;;Dresden;;;
-BLD;Bild;AxelSpringerSE;Berlin;;;
-WMP;WMPEuroComAG ;;Berlin;;;
-BAUNWE;Bauhaus-UniversitaetWeimar;;Weimar;;;
-HeNaSc;Henri-Nannen-Schule;;Hamburg;;;
-GuRe;GutenbergRecherchepreis;VRM-Mediengruppe  ;Mainz;LingenStiftung;;
-MaKn;MarleneKnobloch;;;FreieJournalistin;;
-WIX;Wix.com;;Tel Aviv;;;
-HuUnBe;Humboldt-UniversitaetBerlin;;Berlin;;;
-TeAvUn;Tel Aviv University;;Tel Aviv;;;
-BeFe;Berliner Festspiele;;Berlin;;;
-HaKn;HannahKnuth;DieZeit;Hamburg;Redakteurin ;;
-HeScJoPr;Helmut-Schmidt-Journalistenpreis;ING-DiBa;;;;
-HeScNaPr;Helmut-Schmidt-Nachwuchspreis;ING-DiBa;;;;
-FrUnBe;FreieUniversitaetBerlin;;Berlin;;;
-SaKo;SarahKoldehoff;;;FreieJournalistin;;
-MaPlIn;Max-Planck-InstitutFuerEmpirischeAesthetik;;FrankfurtAmMain;;;
-FAZ;FrankfurterAllgemeineZeitung;FrankfurterAllgemeineZeitungGmbH;FrankfurtAmMain;;;
-FrJo;FreieJournalistin;;;;;
-UnHa;UniversitaetHamburg;;Hamburg;;;
-JoWoGoUn;JohannWolfgangGoethe-UniversitaetFrankfurtAmMain;;FrankfurtAmMain;;;
-NhLe;NhiLe;;;FreieJournalistin;;
-SpPoSl;Sprachaktiv-U20PoetrySlam;;Leipzig;;;
-CoMa;CouragiertMagazin;;;;;
-StGe;StraßengezwitscherE.V. ;;Dresden;;;
-UnOh;OhioUniversity;;Ohio;;;
+FiUnBa,FilmuniversitaetBabelsbergKonradWolf,,Babelsberg,
+UnBA,UniversidadDeBuenosAires,,BuenosAires,
+CaDr,CarolinaDrueten,WeltN24,Berlin,Redakteurin
+IsBiUe,IstanbulBilgiUeniversitesi,,Istanbul,
+UnEAS,UniversityofEuropeforAppliedSciences,,Potsdam,
+UnAa,AarhusUniversity,,Aarhus,
+CiUnLo,CityUniversityofLondon,,London,
+EuPa,EuropeanParliament,,Brussels,
+AlAg,AltanaAg,,Cologne,
+Welt,Welt,WeltN24,Berlin,
+StMe,StiftungMercator,StiftungMercatorGmbH,Essen,
+DAAD,DAAD-GermanAcademicExchangeService,,Bonn,
+ThSp,ThoughtSpark,ThoughtSparkAgency,London,
+SoGa,SophieGarbe,,Berlin,FreieJournalistin
+DeSp,DerSpiegel,SPIEGEL-VerlagRudolfAugstein,Hamburg,
+Watson,watson.de,AZMedienAG,Zürich,
+SZ,SueddeutscheZeitung,SüddeutscheZeitungGmbH,Muenchen,
+DeJo,DeutscheJournalistenschule,,Muenchen,Ausbildung
+LuMaUn,Ludwig-Maximilians-UniversitaetMuenchen,,Muenchen,
+WeWiUn,WestfaelischeWilhelms-UniversitaetMuenster,,Muenster,
+LaGo,LauraGoudkamp,BayerischerRundfunk,Muenchen,FreieJournalistin
+BaRu,BayerischerRundfunk,,Muenchen,
+GeEmLo,GermanEmbassyLondon,,London,
+Ya,Yahoo,,,,
+DeBu,DeutscherBundestag,,Berlin,
+UCL,UniversityCollegeLondon,,London,
+HoUt,HogeschoolUtrecht,,Utrecht,
+ipas,InternationalAndPublicAffairsSociety,,London,
+Plus,PULS(BayerischerRundfunk),AlliteraVerlag,Muenchen,
+NaJoBa,NachwuchsjournalistenBayern,Hanns-SeidelStiftung,Muenchen,
+SaHo,SalwaHoumsi,,,Moderatorin
+WDR,WDR-WestdeutscherRundfunk,,Koeln,
+RaFr,RadioFritz,RundfunkBerlin-Brandenburg,Berlin,
+Spot,Spotify,,,,
+InMuJoAw,InternationalMusicJournalismAward,DasReeperbahnFestival,Hamburg,
+GrOnAw,GrimmeOnlineAward,Grimme-Institut,Marl,
+ARTE,ARTE,,Straßburg,
+MeKa,MerveKayikci,SWR-Südwestrundfunk,,Moderatorin
+SWR,SWR-Südwestrundfunk,,Mainz,
+KoAdSt,KonradAdenauerStiftung,,Bonn,
+Po,Podimo,,,,
+GrUJa,VerlagshausGrunerUJahr,GrunerUndJahrGmbH,Hamburg,
+De,Deezer,,,,
+LaBaWu,LandBaden-Wuerttemberg,,Stuttgart,
+DaMeJo,DanmarksMedieogJournalisthojskole,,Aarhus,
+EbKaUn,EberhardKarlsUniversitaetTuebingen,,Tuebingen,
+HoDeMe,HochschuleDerMedien,,Stuttgart,
+OrGe,OriginalsGesucht,re:publicaUndDeezer,,,
+FrKl,FranziskaKlemenz,Saechsische.de,Dresden,Reporterin
+ThOr,TheOregonian,InternationalCenterForJournalists,,,
+SaZe,SaechsischeZeitung,DDV-Mediengruppe,Dresden,
+TeUnDr,TechnischeUniversitaetDresden,,Dresden,
+BLD,Bild,AxelSpringerSE,Berlin,
+WMP,WMPEuroComAG,,Berlin,
+BAUNWE,Bauhaus-UniversitaetWeimar,,Weimar,
+HeNaSc,Henri-Nannen-Schule,,Hamburg,
+GuRe,GutenbergRecherchepreis,VRM-Mediengruppe,Mainz,
+MaKn,MarleneKnobloch,,,FreieJournalistin
+WIX,Wix.com,,TelAviv,
+HuUnBe,Humboldt-UniversitaetBerlin,,Berlin,
+TeAvUn,TelAvivUniversity,,Tel Aviv,
+BeFe,BerlinerFestspiele,,Berlin,
+HaKn,HannahKnuth,DieZeit,Hamburg,Redakteurin
+HeScJoPr,Helmut-Schmidt-Journalistenpreis,ING-DiBa,,,
+HeScNaPr,Helmut-Schmidt-Nachwuchspreis,ING-DiBa,,,
+FrUnBe,FreieUniversitaetBerlin,,Berlin,
+SaKo,SarahKoldehoff,,,FreieJournalistin
+MaPlIn,Max-Planck-InstitutFuerEmpirischeAesthetik,,FrankfurtAmMain,
+FAZ,FrankfurterAllgemeineZeitung,FrankfurterAllgemeineZeitungGmbH,FrankfurtAmMain,
+FrJo,FreieJournalistin,,,,
+UnHa,UniversitaetHamburg,,Hamburg,
+JoWoGoUn,JohannWolfgangGoethe-UniversitaetFrankfurtAmMain,,FrankfurtAmMain,
+NhLe,NhiLe,,,,FreieJournalistin
+SpPoSl,Sprachaktiv-U20PoetrySlam,,Leipzig,
+CoMa,CouragiertMagazin,CouragiertMagazin,,,
+StGe,Straßengezwitscher,StraßengezwitscherE.V,Dresden,
+UnOh,OhioUniversity,,Ohio,
 MDR;MDR-MitteldeutscherRundfunk ;;Leipzig;;;
 NDR;NDR-NorddeutscherRundfunk;;Hamburg;;;
 DiMeWo;DigitalMediaWomenE.V.;;Hamburg;;;
