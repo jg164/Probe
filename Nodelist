@@ -39,14 +39,19 @@ hat.
 
 
 
+
 library(igraph)
+
 # Einlesen der Edge- und Nodelists durch die Referenz zu GitHub
 el <- read.csv("https://raw.githubusercontent.com/jg164/Probe/main/test%20Julia%20Edgelist", header=T, as.is=T, sep = ",")
 nl <- read.csv("https://raw.githubusercontent.com/jg164/Probe/main/test%20Julia%20Nodelist", header=T, as.is=T, sep = ",")
 # Matrix aus der Edgelist erstellen
+
 elmatrix <-as.matrix(el)
 # Zusammenführen von Edgematrix und Nodelist zu einem igraph-Objekt s
+
 s <- graph_from_data_frame(d=elmatrix, directed=F)
+
 s
 
 
