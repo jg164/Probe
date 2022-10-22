@@ -5,11 +5,10 @@ HoMe,HolzmannMedienGmbH,,,
 MuPr,Multimediapreis,AkademieDerBayerischenPresse,Bayern,
 AnKaBu,AnnKathrinBueuesker,Deutschlandfunk,Koeln,Redakteurin-Moderatorin
 UnOl,UniversitaetOldenburg,,Oldenburg,
-UnGr,UniversitaetGroningen,,,
+UnGr,UniversitaetGroningen,,Groningen,
 DeRa,Deutschlandradio,,,
 NiMe,NiedersaechsischerMedienpreis,NiedersaechsischenLandesmedienanstalt,Hannover,
 NiKl,NinaKlippel,DerSpiegel,,FreieJournalistin
-UnMa,UniversitaetMainz,,Mainz,
 ElMeSc,ElectronicMediaSchool,,,
 KaMe,KAUSAMedienpreis,BundesministeriumBildungForschung,Bonn,
 AmAw,AmikoAward,,,
@@ -74,9 +73,9 @@ UnLo,UniversityofLondon,,London,
 IlKn,IlkaKnigge,DLF,Koeln,Ressortleiterin
 LMU,Ludwig-Maximilians-Universitaet,,Muenchen,
 DeRa,DeutscherRadiopreis,Deutschlandradio,Koeln,
-NiLa,NikeLaurenz,Spiegel,Hamburg,Redakteurin
+NiLa,NikeLaurenz,DerSpiegel,Hamburg,Redakteurin
 KoeSt,KoelnerStadt-Anzeiger,,Koeln,
-JuLo,JuliaLorenz,Spiegel,Hamburg,FreieMitarbeiterin
+JuLo,JuliaLorenz,DerSpiegel,Hamburg,FreieMitarbeiterin
 Zitt,Zitty,,Berlin,
 IMJU,InternationalMusicJournalismAward,,,
 YaMB,YasminMBarak,taz,Berlin,FreieMitarbeiterin
@@ -97,7 +96,7 @@ UnBM,UniversitaetderBundeswehr,,Muenchen,
 WoiS,WomenininternationalSecurity,,,
 LaTh,LaraThiede,jetztde,Muenchen,Redaktionsleiterin
 KaUn,KatholischeUniversitaet,,Ingolstadt,
-ElHo,ElisavonHof,Spiegel,Hamburg,Redakteurin
+ElHo,ElisavonHof,DerSpiegel,Hamburg,Redakteurin
 HuUn,HumboldtUniversitaet,,Berlin,
 ErZi,EricaZingher,taz,Berlin,Redakteurin
 LaAh,LaurinaAhlers,SuedlaenderTageblatt,Plettenberg,FreieJournalistin
@@ -126,7 +125,7 @@ DoTo,DorotheeTorebko,MaerkischeOderzeitung,FrankfurtOder,Sportredakteurin
 AlRh,AlexanderRhombergPreis,MaerkischeOderzeitung,FrankfurtOder,
 MaeOd,MaerkischeOderzeitung,,FrankfurtOder,
 LeUn,LeuphanaUniversitaetLueneburg,,Lueneburg,
-TeSi,TeresaSickert,Spiegel,Berlin,FreieRadiojournalistin
+TeSi,TeresaSickert,DerSpiegel,Berlin,FreieRadiojournalistin
 TeUn,TechnischeUniversitaetIlmenau,,Ilmenau,
 FJS,FreieJournalistenSchule,,Berlin,
 ThRe,TheresaRentsch,DeutschePresseAgentur,Berlin,HeadOfProductManagement
@@ -140,7 +139,7 @@ DeRe,DeutscherReporterpreis,WeltN24,Berlin,
 RiPr,RIASPreis,WeltN24,Berlin,
 Nan,NannenPreis,WeltN24,Berlin,
 WeN,WeltN24,,Berlin,
-MiOl,MiriamOlbrisch,Spiegel,Hamburg,Redakteurin
+MiOl,MiriamOlbrisch,DerSpiegel,Hamburg,Redakteurin
 UnKo,UniversitaetKoeln,,Koeln,
 KJS,KoelnerJournalistenSchule,,Koeln,
 LeNi,LenaNiethammer,Zeitmagazin,Hamburg,Redakteurin
@@ -206,7 +205,7 @@ LiMc,LisaMcMinn,Krautreporter,Berlin,Chefredakteurin,
 FUB,FreieUniversitaetBerlin,,Berlin,
 UnHa,UniversitaetHamburg,,Hamburg,
 HNJo,HenriNannenJournalistenschule,,Hamburg,
-RoMe,RonjaMerkel,Spiegel,Hamburg,FreieJournalistin
+RoMe,RonjaMerkel,DerSpiegel,Hamburg,FreieJournalistin
 JoGu,JohannesGutenbergUniversitaet,Mainz,
 JoGu,JohannesGutenbergUniversitaet,,Mainz,
 ChMe,ChristinaMetallinos,BayrischerRundfunk,Muenchen,Moderatorin
@@ -276,7 +275,7 @@ UnPro,UniversitédeProvence,,Marseille,
 StDo,StefanieDodt,,,FreieReporterin
 RaRe,RadioRegenbogen,,Mannheim,
 LFK,MedienpreisderLandesmedienanstaltfürKommunikation,,Baden-Württemberg,
-UnMue,UniversitaeteMuenchen,,Muenchen,
+UnMu,UniversitaeteMuenchen,,Muenchen,
 UnHe,UniversitaetHeidelberg,,Heidelberg,
 UnBuAi,UniversitaetBuenosAires,,BuenosAires,
 GeHoPr,GeorgvonHoltzbrinck-PreisfürWirtschaftsjournalismus,VerlagsgruppeGeorgvonHoltzbrinck,,
@@ -373,7 +372,7 @@ TUDo,TechnischeUniversitaetDortmund,,Dortmund,
 TeMo,TecDeMonterrey,,Monterrey,
 ArStBr,ARD-StudioBruessel,,Bruessel,
 NeDe,NeuenDeutschenMedienmacherinnen,,,
-FEJS ,ForumForEuropeanJournalismStudents,,,
+FEJS,ForumForEuropeanJournalismStudents,,,
 OlSa,OliviaSamnick,,Hamburg,FreieJournalistin
 u30,30unter30,MediumMagazin,Muenchen,
 IsBe,IsabellBeer,Funk,Berlin,Redakteurin
@@ -399,7 +398,7 @@ DeTa,DerTagesspiegel,VerlagDerTagesspiegelGmbH,Berlin,
 PuDj,PuneDjalilevand,RundfunkBerlin-Brandenburg,Berlin,Redakteurin
 ARD,ARD-ArbeitsgemeinschaftDerÖffentlich-rechtlichenRundfunkanstaltenDerBRD,,Berlin,
 RBB,RundfunkBerlin-Brandenburg,,Berlin,
-EMS,ElectronicMediaSchool,,Babelsberg,
+ElMeSc,ElectronicMediaSchool,,Babelsberg,
 FiUnBa,FilmuniversitaetBabelsbergKonradWolf,,Babelsberg,
 UnBA,UniversidadDeBuenosAires,,BuenosAires,
 CaDr,CarolinaDrueten,WeltN24,Berlin,Redakteurin
@@ -493,7 +492,7 @@ NeRe,NetzwerkRecherche,NetzwerkRechercheE.V.,Berlin,
 FrSc,Freischreiber,,Hamburg,
 DJU,DeutscheJournalistinnen-Union,ver.di,Berlin,
 UnJe,UniversitaetJena,,Jena,
-UnMa,UniversitaetMannheim,,Mannheim,
+UnMan,UniversitaetMannheim,,Mannheim,
 DiRh,DieRheinpfalz,RheinpfalzVerlagUndDruckereiGmbHCo.KG,LudwigshafenAmRhein,
 Hu11FiGu,Hunter11Films,,Guatemala,
 KrLe,Kreuzer-DasLeipzigMagazin,KreuzerMedienGmbH,Leipzig,
@@ -519,7 +518,7 @@ PaWoSePr,Pater-Wolfgang-Seibel-Preis,InstitutZurFoerderungPublizistischenNachwuc
 DeLoJo,DeutscherLokaljournalistenpreis,Konrad-Adenauer-Stiftung,Bonn,
 MaWu,MaikeWurtscheid,DocuvistaFilmproduktion,Berlin,Regisseurin
 DoFi,DocuvistaFilmproduktion,,Berlin,
-UnMai,UniversitaetMainz,,Mainz,
+UnMa,UniversitaetMainz,,Mainz,
 3SAT,3Sat,,,
 LaBa,LauraLoredanaBackes,,Hamburg,FreieJournalistin
 AnBi,AnnaBiselli,,,Informatikerin
