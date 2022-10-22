@@ -528,7 +528,7 @@ LeUnLu,LeuphanaUniversitaetLueneburg,,Lueneburg,
 DeFe,DeutscherFernsehpreis,,,
 CaSc,CarolinSchulz,Onmeda,Mainz,Chefredakteurin
 MeHoHa,MedizinischeHochschuleHannover,,Hannover,
-Onme,Onmeda,gofeminin.deGmbH,,
+Onme,Onmeda,gofemininGmbH,,
 AnGr,AngelaGruber,,Hamburg,Auslandsreporterin
 FrKe,FranziVonKempis,,Berlin,Redakteurin
 UnWi,UniversitaetWien,,Wien,
@@ -540,7 +540,7 @@ DeWi,DeutscherWirtschaftsfilmpreis,BundesministeriumFuerWirtschaftUndEnergie,,
 DePrOn,DeutscherPreisFuerOnlinekommunikation,,,
 MaRe,MariekeReimann,Sueddeutschezeitung,Berlin,FreieJournalistin
 TUIl,TechnischeUniversitaetIlmenau,,Ilmenau,
-WeInNe,Publikumspreis"WegeinsNetz"",BundesministeriumFuerWirtschaft,,,
+WeInNe,Publikumspreis"WegeinsNetz",BundesministeriumFuerWirtschaft,,,
 InPr,InnovationspreisBeimMedienkompetenzpreis,FishFestival,,,
 ViRe,VictoriaReith,Deutschlandradio,Koeln,Journalistin
 DeRa,Deutschlandradio,,,
@@ -552,8 +552,7 @@ AlSc,AlinaSchadwinkel,Zeit,Berlin,Wissenschaftsjournalistin
 LiTi,LinaTimm,,Muenchen,FreieJournalistin
 NoJa,NoraJakob,WDR,Koeln,FreieJournalistin
 LiHe,LisaHegemann,,Berlin,FreieJournalistin
-KoJo,KoelnerJournalistenschule,KoelnerJournalistenschuleFuerPolitikUndWirtschaftE.V.,,
+KoJo,KoelnerJournalistenschule,KoelnerJournalistenschuleFuerPolitikUndWirtschaftE.V.,
 LeAl,LenaAlt,,,
 JuJo,JungeJournalisten,,,
-DeHAZe,DeutscheHandwerksZeitung,,BadWörischhofen,,
-
+DeHaZe,DeutscheHandwerksZeitung,,BadWörischhofen,,
