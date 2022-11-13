@@ -47,10 +47,16 @@ DoTo,LeUn,education,2005
 DoTo,KaJo,education,2011
 TeSi,u30,nominierung,2016
 TeSi,TeSi,education,2007
-
-
+TeSi,RBB,employment,2011
+TeSi,FJ,employment,2017
+TeSi,DeFu,employment,2014
+TeSi,DeSp,employment,2016
 TeSi,FJS,education,2012
 ThRe,UnKu,education,2012
+ThRe,DPA,employment,2020
+ThRe,AxSp,employment,2018
+ThRe,WeN,employment,2016
+ThRe,FAZ,employment,2014
 ThRe,UnLe,education,2008
 ThRe,MIFo,preis,2014
 ThRe,LeAw,preis,2015
@@ -62,6 +68,8 @@ ThRe,Nan,preis,2016
 ThRe,WeN,voluntariat,2015
 ThRe,u30,nominierung,2016
 MiOl,UnKo,education,2005
+MiOl,DeSp,employment,2011
+
 MiOl,KJS,education,
 MiOl,u30,nominierung,2016
 LeNi,ASP,preis,2017
