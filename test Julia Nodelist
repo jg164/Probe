@@ -1,5 +1,4 @@
 Id,name,company,location,position
-2016:
 LaAh,LaurinaAhlers,SuedlaenderTageblatt,Plettenberg,FreieJournalistin
 SueTa,SuedlaenderTageblatt,,Plettenberg,
 u30,DieTop30bis30desJahres,Mediummagazin,Muenchen,
@@ -69,8 +68,6 @@ LaGi,LauraGitschier,PrimeProductions,Koeln,Redakteurin
 AnGe,Anne-KathrinGerstlauer,DieZeit,Hamburg,Konzeption
 TuDo,TechnischeUniversitätDortmund,,Dortmund,
 KoeSt,KoelnerStadtanzeiger,,Koeln,
-
-2017:
 JeBa,JessicaBaker,DeutschenHandwerksZeitung,BadWörishofen,Redakteurin
 RKUn,RuprechtKarlsUniversität,,Heidelberg,
 HoMe,HolzmannMedienGmbH,,,
@@ -133,8 +130,6 @@ LiWe,LisaWeitemeier,,,Multimedia-Redakteurin
 LfM,LfM-Campus-Radio-Preis,,,
 MeDeDi,MedienpreisDerDeutschenDiabetesGesellschaft,DeutschenDiabetesGesellschaft,,
 GrOnAw,GrimmeOnlineAward,,,
-
-2019:
 PoBa,PolinaBaumgarten,DieZeit,Hamburg,VideoRedakteurin
 HuUn,HumboldtUniversitaet,,Berlin,
 u30,DieTop30bis30desJahres,Mediummagazin,München,
@@ -241,8 +236,6 @@ BaRu,BayrischerRundfunk,,Muenchen,
 LMU,LudwigMaximiliansUniversitaet,Muenchen,
 GoBo,GoldenerBlogger,BayrischerRundfunk,Muenchen,
 ASP,AxelSpringerPreis,BayrischerRundfunk,Muenchen,
-
-2020: 
 ViBo,VictoriaBolmer,Bento,Hamburg,Ressortleiterin
 UnHa,UniversitaetHamburg,,Hamburg,
 UnOs,UniversitaetOsnabrueck,,Osnabrueck,
@@ -281,8 +274,6 @@ KaUn,KatholischeUniversitaet,,Ingolstadt,
 ElHo,ElisavonHof,DerSpiegel,Hamburg,Redakteurin
 HuUn,HumboldtUniversitaet,,Berlin,
 ErZi,EricaZingher,taz,Berlin,Redakteurin
-
-2018:
 SaJaBh,SaraJasminBhatti,,FreieJournalistin,,
 UnBo,UniversitartBonn,,Bonn,
 HoMaSt,HochschuleMagdeburg-Stendal,,Magdeburg,
@@ -338,12 +329,6 @@ AmIn,AmnestyInternational,,London,
 LaLei,Landesjugendleitung,,,
 StRat,StipendiatInnen-Rat,,,
 ThWo,ThembiWolf,FAZ,,FreieJournalistin 
-_______________________________________________________
-RƒeBa,RebeccaBarth,,Berlin,FreieJournalistin
-
-
-Johanna : 
-2021
 u30,30unter30,MediumMagazin,Muenchen,
 IsBe,IsabellBeer,Funk,Berlin,Redakteurin
 DeRe,DeutscherReporterpreis,WeltN24,Berlin,
@@ -490,8 +475,6 @@ MaWu,MaikeWurtscheid,DocuvistaFilmproduktion,Berlin,Regisseurin
 DoFi,DocuvistaFilmproduktion,,Berlin,
 UnMa,UniversitaetMainz,,Mainz,
 3SAT,3Sat,,,
-
-2022:
 LaBa,LauraLoredanaBackes,,Hamburg,FreieJournalistin
 NaBa,NadjaBascheck,WDR,Koeln,Moderatorin
 DeFu,Deutschlandfunk,,Koeln,
@@ -546,8 +529,6 @@ ArStBr,ARD-StudioBruessel,,Bruessel,
 NeDe,NeuenDeutschenMedienmacherinnen,,,
 FEJS,ForumForEuropeanJournalismStudents,,,
 OlSa,OliviaSamnick,,Hamburg,FreieJournalistin
-
-2015:
 AnBi,AnnaBiselli,,,Informatikerin
 NePo,netzpolitik.org,,,
 KaBr,KatharinaBrunner,SZ,,Datenjournalistin
