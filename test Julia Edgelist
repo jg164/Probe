@@ -69,7 +69,6 @@ ThRe,WeN,voluntariat,2015
 ThRe,u30,nominierung,2016
 MiOl,UnKo,education,2005
 MiOl,DeSp,employment,2011
-
 MiOl,KJS,education,
 MiOl,u30,nominierung,2016
 LeNi,ASP,preis,2017
@@ -90,7 +89,6 @@ LaGi,KJS,education,
 AnGe,u30,nominierung,2016
 AnGe,TuDo,education,2009
 AnGe,KoeSt,volontariat,2011
-
 JeBa,RKUn,education,2008
 JeBa,HoMe,voluntariat,2014
 JeBa,MuPr,preis,2015
@@ -163,8 +161,6 @@ LiWe,LfM,preis,2012
 LiWe,MeDeDi,preis,2015
 LiWe,GOA,preis,2017
 LiWe,u30,nominierung,2017
-
-
 PoBa,u30,nominierung,2019
 PoBa,HeHe,education,2011
 PoBa,HuUn,education,2016
@@ -273,7 +269,6 @@ AKWe,LMU,education,2010
 AKWe,LMU,education,2013
 AKWe,GoBo,preis,2019
 AKWe,ASP,preis,2019
-
 ViBo,u30,nominierung,2020
 ViBo,UnHa,education,2011
 ViBo,UnOs,education,2014
@@ -319,8 +314,6 @@ LaTh,KaUn,education,2016
 ElHo,u30,nominierung,2020
 ElHo,HuUn,education,2013
 ErZi,u30,nominierung,2020
-
-
 SaJaBh,UnBo,education,
 SaJaBh,HoMaSt,education,
 SaJaBh,TaUn,education,
@@ -383,9 +376,6 @@ VaVu,StRat,engagement,2013
 VaVu,u30,nominierung,2018
 ThWo,FuBe,education,
 ThWo,u30,nominierung,2018
-
-*Johanna:*  
-from,to,type,year
 IsBe,u30,nomination,2021
 IsBe,DeJo,no,2017
 IsBe,DeJo,no,2019
@@ -573,7 +563,6 @@ MaWu,DoFi,employment,
 MaWu,UnMai,education,
 MaWu,3SAT,employment,
 MaWu,ZDF,employment,
-
 ReBa,u30,nominierung,2022
 ReBa,HuUnBe,education,
 NaBa,u30,nominierung,2022
@@ -650,7 +639,6 @@ KaWe,TUDo,engagement,2016
 OlSa,u30,nominierung,2022
 OlSa,UnHa,education,
 OlSa,FrUnBe,education,
-
 LaBa,u30,nominierung,2015
 LaBa,DeJo,education,
 AnBi,u30,nominierung,2015
