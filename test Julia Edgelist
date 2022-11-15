@@ -130,7 +130,7 @@ VaSc,DeJoSc,education,
 HaSc,UnMue,education,2012
 HaSc,UnPoFa,education,2015
 HaSc,AxSpAk,voluntariat,2017
-HaSc,AxSpAk;education,2017
+HaSc,AxSpAk,education,2017
 HaSc,u30,nominierung,2017
 LeSt,WDR,voluntariat,
 LeSt,u30,nominierung,2017
@@ -198,6 +198,7 @@ KaHe,KoJo,education,2009
 AKHi,u30,nominierung,2019
 AKHi,FrUnBe,education,2012
 AKHi,IFN,education,2014
+
 AKHi,DeTa,volontariat,2016
 KaKl,u30,nominierung,2019
 KaKl,WeN,volontariat,2016
