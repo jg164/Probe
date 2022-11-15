@@ -46,7 +46,7 @@ DoTo,MaeOd,voluntariat,2011
 DoTo,LeUn,education,2005
 DoTo,KaJo,education,2011
 TeSi,u30,nominierung,2016
-TeSi,TeSi,education,2007
+TeSi,TUIl,education,2007
 TeSi,RBB,employment,2011
 TeSi,FrJo,employment,2017
 TeSi,DeFu,employment,2014
@@ -140,7 +140,7 @@ LaTe,InMo,education,2013
 LaTe,SZ,voluntariat,2015
 LaTe,u30,nominierung,2017
 MaLoTi,UnKo,education,2011
-MaLoTi,TUDo,education,2011
+MaLoTi,TuDo,education,2011
 MaLoTi,DaJoAw,preis,2017
 MaLoTi,u30,nominierung,2017
 MaLoTi,TSCE,engagement,
@@ -155,7 +155,7 @@ SiWa,GoInJo,voluntariat,2012
 SiWa,MeBi,preis,2015
 SiWa,u30,nominierung,2017
 SiWa,SZ,voluntariat,2015
-LiWe,TUDo,education,2010
+LiWe,TuDo,education,2010
 LiWe,WDR,voluntariat,2013
 LiWe,LfM,preis,2012
 LiWe,MeDeDi,preis,2015
@@ -174,7 +174,6 @@ AnFe,NYF,preis,2017
 AnFe,IEA,nominierung,2018
 ElGa,u30,nominierung,2019
 ElGa,UnWi,education,2008
-ElGa,UnWi,education,2011
 ElGa,RHP,preis,2014
 ElGa,OBP,preis,2014
 ElGa,MeLoe,preis,2017
@@ -198,8 +197,8 @@ KaHe,KoJo,education,2009
 AKHi,u30,nominierung,2019
 AKHi,FrUnBe,education,2012
 AKHi,IFN,education,2014
-
 AKHi,DeTa,volontariat,2016
+
 KaKl,u30,nominierung,2019
 KaKl,WeN,volontariat,2016
 KaKl,FrUnBe,education,2014
